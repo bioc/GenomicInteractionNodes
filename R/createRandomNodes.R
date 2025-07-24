@@ -10,7 +10,7 @@
 #' @export
 #' @importMethodsFrom GenomicFeatures genes promoters
 #' @importMethodsFrom IRanges shift trim width<-
-#' @importFrom GenomeInfoDb seqlevels
+#' @importFrom Seqinfo seqlevels
 #' @importFrom GenomicRanges seqnames
 #' @examples 
 #' library(TxDb.Hsapiens.UCSC.hg19.knownGene)
